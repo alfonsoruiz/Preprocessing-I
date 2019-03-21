@@ -197,6 +197,9 @@ img {
   font-size: 1.8rem;
   font-weight: 300;
 }
+.container nav a:hover {
+  color: #0d48a1;
+}
 .container header {
   text-align: center;
   margin: 100px 0;
